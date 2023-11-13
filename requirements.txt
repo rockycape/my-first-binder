@@ -1,1 +1,1 @@
-matplotlib==3.8.1
+ipympl==0.9.3  
