@@ -1,7 +1,0 @@
-name: myjupyterlab
-channels:
-- conda-forge
-dependencies:
-- python=3.8
-- jupyterlab=3.2.9
-# add other dependencies as needed
